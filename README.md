@@ -10,7 +10,7 @@ FloodSense VR is a Virtual Reality (VR) simulation project developed as part of 
 
 ## 🔧 Technologies Used
 
-- Unity 2019
+- Unity Version 2019.4.20f1
 - Google VR SDK (GVR)
 - C# Scripting (VS Code)
 
