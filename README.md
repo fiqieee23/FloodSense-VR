@@ -18,8 +18,6 @@ FloodSense VR is a Virtual Reality (VR) simulation project developed as part of 
 
 - `Package/FloodSenseVR.unitypackage` – Full Unity export package
 - `Screenshots/` – Visuals from the VR experience
-- `Documentation/` – Proposal or report files (optional)
-- `Scripts/` – Sample C# scripts (optional for viewing on GitHub)
 
 ## 📽️ How to Use
 
