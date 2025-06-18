@@ -52,7 +52,7 @@ FloodSense VR is a Virtual Reality simulation designed to raise awareness and ed
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Interface
 
 ![Screenshot 2025-06-13 190256](https://github.com/user-attachments/assets/7abae4b6-1647-4419-b1bf-ac95907a4fbd)
 ![Screenshot 2025-06-13 190442](https://github.com/user-attachments/assets/7a72ca17-e1f4-4fd3-b941-d40e34d39231)
